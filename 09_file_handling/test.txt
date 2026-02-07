@@ -1,6 +1,0 @@
-fesdefsd
-dsfsdf
-dsfsdf
-
-
-#### Open the file with `with` statement
